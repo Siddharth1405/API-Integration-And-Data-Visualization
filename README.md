@@ -41,7 +41,7 @@ This Python project fetches 5-day weather forecast data from the OpenWeatherMap 
   - Easily change city by modifying the `CITY` variable
   - Supports metric or imperial units
 - **Output**:
-
+![Image](https://github.com/user-attachments/assets/8724d74d-b21f-409d-974e-6c50600d33ee)
 
 ## Setup Instructions
 1. Get an API key from [OpenWeatherMap](https://openweathermap.org/)
